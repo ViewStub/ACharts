@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ACharts.iml" filepath="$PROJECT_DIR$/ACharts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChartBase/ChartBase.iml" filepath="$PROJECT_DIR$/ChartBase/ChartBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LineChart/LineChart.iml" filepath="$PROJECT_DIR$/LineChart/LineChart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LineChartDemo/LineChartDemo.iml" filepath="$PROJECT_DIR$/LineChartDemo/LineChartDemo.iml" />
+    </modules>
+  </component>
+</project>
