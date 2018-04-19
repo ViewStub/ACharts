@@ -5,4 +5,6 @@ package com.wooou.chart.line.pojo;
  */
 
 public class Desc {
+    private String xAxisDsec;
+    private String yAxisDesc;
 }

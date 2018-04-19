@@ -1,4 +1,4 @@
-package com.wooou.charts;
+package com.wooou.chart;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
